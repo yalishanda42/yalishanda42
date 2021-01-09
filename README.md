@@ -9,9 +9,9 @@ I have two - Python and Swift.
 ### What types of software projects are my favorites?
 
 1. iOS Apps (native)
-2. Games (in Godot)
-3. Electronics (Arduino/ESP8266)
-4. Libraries
+2. Libraries (any language)
+3. Games (in Godot)
+4. Electronics (Arduino/ESP8266)
 
 ### What is my level?
 
@@ -62,10 +62,12 @@ I have two - Python and Swift.
   - :red_circle: :red_circle: :o: :o: :o: Android Native Framework Stack
   - :red_circle: :red_circle: :red_circle: :red_circle: :o: Xamarin.Native
   - :o: :o: :o: :o: :o: Xamarin.Forms
+  - :red_circle: :red_circle: :o: :o: :o: Corona SDK
   
   ### Game Engines
   - :red_circle: :red_circle: :red_circle: :o: :o: Godot Game Engine
   - :red_circle: :red_circle: :o: :o: :o: Unreal Engine
+  - :o: :o: :o: :o: :o: Unity
   
   ### Web
   - :red_circle: :red_circle: :red_circle: :o: :o: LAMP Stack
