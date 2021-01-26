@@ -47,9 +47,10 @@ I have two - Python and Swift.
   10. :red_circle: :red_circle: :red_circle: :o: :o: Objective-C
   11. :red_circle: :red_circle: :red_circle: :o: :o: Kotlin
   12. :red_circle: :red_circle: :red_circle: :o: :o: Java
-  13. :red_circle: :red_circle: :o: :o: :o: 8086 Assembly
-  14. :red_circle: :red_circle: :o: :o: :o: Javascript
+  13. :red_circle: :red_circle: :red_circle: :o: :o: Javascript
+  14. :red_circle: :red_circle: :o: :o: :o: 8086 Assembly
   15. :red_circle: :o: :o: :o: :o: R
+  16. :red_circle: :o: :o: :o: :o: Stata
 </details>
 
 <details>
