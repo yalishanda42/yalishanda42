@@ -22,6 +22,7 @@ I have two - Python and Swift.
   - :red_circle: :red_circle: :red_circle: :o: :o: SwiftUI
   - :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: Swift
   - :red_circle: :red_circle: :red_circle: :o: :o: Objective-C
+  - :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: MVC
   - :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: MVVM+C Architecture
   - :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: Redux-like SwiftUI Architecture
   - :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: RxSwift
