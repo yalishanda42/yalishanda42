@@ -52,6 +52,7 @@ I have two - Python and Swift.
   14. :red_circle: :red_circle: :o: :o: :o: 8086 Assembly
   15. :red_circle: :o: :o: :o: :o: R
   16. :red_circle: :o: :o: :o: :o: Stata
+  17. :red_circle: :o: :o: :o: :o: Solidity
 </details>
 
 <details>
