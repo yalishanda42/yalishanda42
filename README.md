@@ -38,7 +38,7 @@ I have two - Python and Swift.
   
   1. :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: Swift
   2. :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: Python
-  3. :red_circle: :red_circle: :red_circle: :red_circle: :o: C++
+  3. :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: C++
   4. :red_circle: :red_circle: :red_circle: :red_circle: :o: C / Arduino
   5. :red_circle: :red_circle: :red_circle: :red_circle: :o: C#
   6. :red_circle: :red_circle: :red_circle: :red_circle: :o: GDScript
