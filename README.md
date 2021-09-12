@@ -50,9 +50,10 @@ I have two - Python and Swift.
   12. :red_circle: :red_circle: :red_circle: :o: :o: Java
   13. :red_circle: :red_circle: :red_circle: :o: :o: Javascript
   14. :red_circle: :red_circle: :o: :o: :o: 8086 Assembly
-  15. :red_circle: :o: :o: :o: :o: R
-  16. :red_circle: :o: :o: :o: :o: Stata
-  17. :red_circle: :o: :o: :o: :o: Solidity
+  15. :red_circle: :red_circle: :o: :o: :o: Haskell
+  16. :red_circle: :o: :o: :o: :o: R
+  17. :red_circle: :o: :o: :o: :o: Stata
+  18. :red_circle: :o: :o: :o: :o: Solidity
 </details>
 
 <details>
