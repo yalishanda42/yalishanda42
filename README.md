@@ -1,7 +1,3 @@
-### Who am I?
-
-I am AI.
-
 ### What is my mother tongue?
 
 I have two - Python and Swift.
