@@ -4,8 +4,8 @@ I have two - Python and Swift.
 
 ### What types of software projects are my favorites?
 
-1. iOS Apps (native)
-2. Libraries (any language)
+1. Libraries (any language)
+2. iOS Apps (native)
 3. Games (in Godot)
 4. Electronics (Arduino/ESP8266)
 
