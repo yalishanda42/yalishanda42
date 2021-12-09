@@ -14,67 +14,89 @@ I have two - Python and Swift.
 <details>
   <summary>iOS world</summary>
   
-  - :red_circle: :red_circle: :red_circle: :red_circle: :o: UIKit
-  - :red_circle: :red_circle: :red_circle: :o: :o: SwiftUI
-  - :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: Swift
-  - :red_circle: :red_circle: :red_circle: :o: :o: Objective-C
-  - :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: MVC
-  - :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: MVVM+C Architecture
-  - :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: Redux-like SwiftUI Architecture
-  - :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: RxSwift
-  - :red_circle: :red_circle: :red_circle: :red_circle: :o: Combine
-  - :red_circle: :red_circle: :red_circle: :o: :o: MapKit
-  - :red_circle: :red_circle: :red_circle: :o: :o: Alamofire
-  - :red_circle: :red_circle: :o: :o: :o: CoreData
-  - :red_circle: :o: :o: :o: :o: Realm
+  <samp>█████████████████░░░ UIKit</samp> 
+    
+  <samp>█████████████░░░░░░░ SwiftUI</samp>
+    
+  <samp>███████████████████░ Swift</samp>
+    
+  <samp>█████████░░░░░░░░░░░ Objective-C</samp>
+    
+  <samp>████████████████████ MVC</samp>
+    
+  <samp>███████████████████░ MVVM+C Architecture</samp>
+    
+  <samp>█████████████████░░░ Redux-like SwiftUI Architecture</samp>
+    
+  <samp>██████████████████░░ RxSwift</samp>
+    
+  <samp>████████████████░░░░ Combine</samp>
+    
+  <samp>██████████████░░░░░░ MapKit</samp>
+    
+  <samp>███████████████░░░░░ Alamofire</samp>
+    
+  <samp>█████████████░░░░░░░ CoreData</samp>
+    
+  <samp>████████░░░░░░░░░░░░ Realm</samp>
 </details>
 
 <details>
   <summary>Programming Languages</summary>
   
-  1. :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: Swift
-  2. :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: Python
-  3. :red_circle: :red_circle: :red_circle: :red_circle: :o: C++
-  4. :red_circle: :red_circle: :red_circle: :red_circle: :o: C
-  5. :red_circle: :red_circle: :red_circle: :red_circle: :o: C#
-  6. :red_circle: :red_circle: :red_circle: :red_circle: :o: GDScript
-  7. :red_circle: :red_circle: :red_circle: :red_circle: :o: Lua
-  8. :red_circle: :red_circle: :red_circle: :red_circle: :o: PHP
-  9. :red_circle: :red_circle: :red_circle: :o: :o: Bash
-  10. :red_circle: :red_circle: :red_circle: :o: :o: Objective-C
-  11. :red_circle: :red_circle: :red_circle: :o: :o: Kotlin
-  12. :red_circle: :red_circle: :red_circle: :o: :o: Java
-  13. :red_circle: :red_circle: :red_circle: :o: :o: Javascript
-  14. :red_circle: :red_circle: :o: :o: :o: 8086 Assembly
-  15. :red_circle: :red_circle: :o: :o: :o: Haskell
-  16. :red_circle: :o: :o: :o: :o: Scheme
-  17. :red_circle: :o: :o: :o: :o: R
-  18. :red_circle: :o: :o: :o: :o: Stata
-  19. :red_circle: :o: :o: :o: :o: Solidity
+  1. <samp>███████████████████░ Swift</samp> 
+  2. <samp>███████████████████░ Python</samp> 
+  3. <samp>████████████████░░░░ C++</samp> 
+  4. <samp>████████████████░░░░ C</samp> 
+  5. <samp>████████████████░░░░ C#</samp> 
+  6. <samp>████████████████░░░░ Lua</samp> 
+  7. <samp>████████████████░░░░ PHP</samp> 
+  8. <samp>███████████████░░░░░ GDScript</samp> 
+  9. <samp>███████████████░░░░░ Java</samp>
+  10. <samp>██████████░░░░░░░░░░ Bash</samp> 
+  11. <samp>█████████░░░░░░░░░░░ Objective-C</samp> 
+  12. <samp>████████░░░░░░░░░░░░ Javascript</samp> 
+  13. <samp>███████░░░░░░░░░░░░░ Kotlin</samp> 
+  14. <samp>██████░░░░░░░░░░░░░░ 8086 Assembly</samp> 
+  15. <samp>████░░░░░░░░░░░░░░░░ Haskell</samp> 
+  16. <samp>███░░░░░░░░░░░░░░░░░ R</samp> 
+  17. <samp>██░░░░░░░░░░░░░░░░░░ Scheme</samp> 
+  18. <samp>█░░░░░░░░░░░░░░░░░░░ Stata</samp> 
+  19. <samp>█░░░░░░░░░░░░░░░░░░░ Solidity</samp> 
 </details>
 
 <details>
   <summary>Tools, Technologies, Frameworks</summary>
   
-  - :star: :star: :star: :star: :star: Git
+  <samp>███████████████████░ Git</samp>
   
   ### Mobile
-  - :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: iOS Native Framework Stack
-  - :red_circle: :red_circle: :o: :o: :o: Android Native Framework Stack
-  - :red_circle: :red_circle: :red_circle: :red_circle: :o: Xamarin.Native
-  - :o: :o: :o: :o: :o: Xamarin.Forms
-  - :red_circle: :red_circle: :o: :o: :o: Corona SDK
+  <samp>███████████████████░ iOS Native Framework Stack</samp>
+  
+  <samp>██████████░░░░░░░░░░ Android Native Framework Stack</samp>
+  
+  <samp>███████████████░░░░░ Xamarin.Native</samp>
+  
+  <samp>░░░░░░░░░░░░░░░░░░░░ Xamarin.Forms</samp>
+  
+  <samp>████████░░░░░░░░░░░░ Corona SDK</samp>
   
   ### Game Engines
-  - :red_circle: :red_circle: :red_circle: :o: :o: Godot Game Engine
-  - :red_circle: :red_circle: :o: :o: :o: Unreal Engine
-  - :o: :o: :o: :o: :o: Unity
+  <samp>██████████████░░░░░░ Godot</samp>
+  
+  <samp>██████░░░░░░░░░░░░░░ Unreal</samp>
+  
+  <samp>█░░░░░░░░░░░░░░░░░░░ Unity</samp>
   
   ### Web
-  - :red_circle: :red_circle: :red_circle: :o: :o: LAMP Stack
-  - :red_circle: :red_circle: :red_circle: :red_circle: :o: MySQL
-  - :red_circle: :red_circle: :o: :o: :o: jQuery
-  - :red_circle: :o: :o: :o: :o: React.js
+  <samp>███████████░░░░░░░░░ LAMP Stack</samp>
+  
+  <samp>█████████████████░░░ MySQL</samp>
+  
+  <samp>██████████░░░░░░░░░░ jQuery</samp>
+  
+  <samp>██████░░░░░░░░░░░░░░ React</samp>
+  
 </details>
 
 ### What is my favorite IDE theme?
