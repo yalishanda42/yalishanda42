@@ -1,7 +1,3 @@
-### What is my mother tongue?
-
-I have two - Python and Swift.
-
 ### What types of software projects are my favorites?
 
 1. Libraries (any language)
