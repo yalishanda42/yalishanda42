@@ -97,7 +97,7 @@
 
 ### What is my favorite IDE theme?
 
-One Dark.
+<samp>One Dark.</samp>
 
 ### What are my Github stats?
 
