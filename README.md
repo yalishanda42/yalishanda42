@@ -1,9 +1,9 @@
 ### What types of software projects are my favorites?
 
-1. Libraries (any language)
-2. iOS Apps (native)
-3. Games (in Godot)
-4. Electronics (Arduino/ESP8266)
+1. **Libraries** (any language)
+2. **iOS Apps** (native)
+3. **Games** (in Godot)
+4. **Electronics** (Arduino/ESP8266)
 
 ### What is my level?
 
