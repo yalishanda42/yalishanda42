@@ -1,9 +1,17 @@
 ### What types of software projects are my favorites?
 
+<details>
+  <summary></summary>
+  
 1. **Libraries** (any language)
+  
 2. **iOS Apps** (native)
+  
 3. **Games** (in Godot)
+  
 4. **Electronics** (Arduino/ESP8266)
+  
+</details>
 
 ### What is my level?
 
@@ -102,7 +110,7 @@
 ### What are my Github stats?
 
 <details>
-  <summary>Stats</summary>
+  <summary></summary>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allexks&theme=merko&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   [![Alexander's github stats](https://github-readme-stats.vercel.app/api?username=allexks&theme=merko)](https://github.com/anuraghazra/github-readme-stats)</details>
