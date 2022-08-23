@@ -56,17 +56,18 @@
   6. <samp>████████████████░░░░ Lua</samp> 
   7. <samp>████████████████░░░░ PHP</samp> 
   8. <samp>███████████████░░░░░ GDScript</samp> 
-  9. <samp>███████████████░░░░░ Java</samp>
-  10. <samp>██████████░░░░░░░░░░ Bash</samp> 
-  11. <samp>█████████░░░░░░░░░░░ Objective-C</samp> 
-  12. <samp>████████░░░░░░░░░░░░ Javascript</samp> 
-  13. <samp>███████░░░░░░░░░░░░░ Kotlin</samp> 
-  14. <samp>██████░░░░░░░░░░░░░░ 8086 Assembly</samp> 
-  15. <samp>████░░░░░░░░░░░░░░░░ Haskell</samp> 
-  16. <samp>███░░░░░░░░░░░░░░░░░ R</samp> 
-  17. <samp>██░░░░░░░░░░░░░░░░░░ Scheme</samp> 
-  18. <samp>█░░░░░░░░░░░░░░░░░░░ Stata</samp> 
-  19. <samp>█░░░░░░░░░░░░░░░░░░░ Solidity</samp> 
+  9. <samp>███████████████░░░░░ Objective-C</samp>
+  10. <samp>███████████████░░░░░ Scala</samp>
+  11. <samp>██████████░░░░░░░░░░ Java</samp> 
+  12. <samp>█████████░░░░░░░░░░░ Bash</samp> 
+  13. <samp>████████░░░░░░░░░░░░ Javascript</samp> 
+  14. <samp>███████░░░░░░░░░░░░░ Kotlin</samp> 
+  15. <samp>██████░░░░░░░░░░░░░░ 8086 Assembly</samp> 
+  16. <samp>████░░░░░░░░░░░░░░░░ Haskell</samp> 
+  17. <samp>███░░░░░░░░░░░░░░░░░ R</samp> 
+  18. <samp>██░░░░░░░░░░░░░░░░░░ Scheme</samp> 
+  19. <samp>█░░░░░░░░░░░░░░░░░░░ Stata</samp> 
+  20. <samp>█░░░░░░░░░░░░░░░░░░░ Solidity</samp> 
 </details>
 
 <details>
