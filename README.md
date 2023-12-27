@@ -3,13 +3,15 @@
 <details>
   <summary></summary>
   
-1. **Libraries** (any language)
+1. **Libraries**
+
+2. **Microservices**
   
-2. **iOS Apps** (native)
+3. **iOS Apps** (native)
   
-3. **Games** (in Godot)
+4. **Games** (in Godot)
   
-4. **Electronics** (Arduino/ESP8266)
+5. **Electronics** (Arduino/ESP8266)
   
 </details>
 
@@ -103,10 +105,6 @@
   <samp>██████░░░░░░░░░░░░░░ React</samp>
   
 </details>
-
-### What is my favorite IDE theme?
-
-<samp>One Dark.</samp>
 
 ### What are my Github stats?
 
